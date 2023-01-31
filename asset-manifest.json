@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c9ab337d.css",
-    "main.js": "/portfolio/static/js/main.c0081959.js",
-    "static/media/monkey.png": "/portfolio/static/media/monkey.e93a4f10e6f5b462ae95.png",
-    "static/media/fruit-ninja.png": "/portfolio/static/media/fruit-ninja.3e6c63b2753bfcee68f5.png",
-    "static/media/kos.png": "/portfolio/static/media/kos.7cbc5e048122d87cc8da.png",
-    "static/media/globalitc.png": "/portfolio/static/media/globalitc.84915bc2f1404ef3642e.png",
-    "static/media/gradient.png": "/portfolio/static/media/gradient.dc34edfea5189238b4c5.png",
-    "static/media/shop.png": "/portfolio/static/media/shop.7f7445d3fb847e600963.png",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.f427921157ccdffa1513.pdf",
-    "static/media/universe.png": "/portfolio/static/media/universe.7679ba6d2c4d243512e4.png",
-    "static/media/image.png": "/portfolio/static/media/image.71585246341dd202cf83.png",
-    "static/media/todo.png": "/portfolio/static/media/todo.c7d4daedeb2d9505f02b.png",
-    "static/media/clock.png": "/portfolio/static/media/clock.ede8537f5477640b8f7b.png",
-    "static/media/calculator.png": "/portfolio/static/media/calculator.086127ce65846b3522f3.png",
-    "static/media/tic-tac-toe.png": "/portfolio/static/media/tic-tac-toe.c120697161e5b150eea7.png",
-    "index.html": "/portfolio/index.html",
-    "main.c9ab337d.css.map": "/portfolio/static/css/main.c9ab337d.css.map",
-    "main.c0081959.js.map": "/portfolio/static/js/main.c0081959.js.map"
+    "main.css": "/static/css/main.c9ab337d.css",
+    "main.js": "/static/js/main.217895ed.js",
+    "static/media/monkey.png": "/static/media/monkey.e93a4f10e6f5b462ae95.png",
+    "static/media/fruit-ninja.png": "/static/media/fruit-ninja.3e6c63b2753bfcee68f5.png",
+    "static/media/kos.png": "/static/media/kos.7cbc5e048122d87cc8da.png",
+    "static/media/globalitc.png": "/static/media/globalitc.84915bc2f1404ef3642e.png",
+    "static/media/gradient.png": "/static/media/gradient.dc34edfea5189238b4c5.png",
+    "static/media/shop.png": "/static/media/shop.7f7445d3fb847e600963.png",
+    "static/media/CV.pdf": "/static/media/CV.f427921157ccdffa1513.pdf",
+    "static/media/universe.png": "/static/media/universe.7679ba6d2c4d243512e4.png",
+    "static/media/image.png": "/static/media/image.71585246341dd202cf83.png",
+    "static/media/todo.png": "/static/media/todo.c7d4daedeb2d9505f02b.png",
+    "static/media/clock.png": "/static/media/clock.ede8537f5477640b8f7b.png",
+    "static/media/calculator.png": "/static/media/calculator.086127ce65846b3522f3.png",
+    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.c120697161e5b150eea7.png",
+    "index.html": "/index.html",
+    "main.c9ab337d.css.map": "/static/css/main.c9ab337d.css.map",
+    "main.217895ed.js.map": "/static/js/main.217895ed.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ab337d.css",
-    "static/js/main.c0081959.js"
+    "static/js/main.217895ed.js"
   ]
 }
