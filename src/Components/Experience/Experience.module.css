@@ -1,0 +1,109 @@
+.experience {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    padding-top: 90px;
+    flex: 1 1 auto;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Over the Rainbow', cursive;
+    padding-left: 10px;
+}
+
+.jobs {
+    width: 95%;
+    height: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.job {
+    margin: 0.5rem 0;
+    width: 100%;
+    height: auto;
+    background: #ffffff;
+    box-shadow: 0 0 20px 0px rgba(0, 143, 162, 0.1);
+    transition: all .2s linear;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.job:hover {
+    box-shadow: 0 0 20px 0px rgba(0, 143, 162, 0.3);
+}
+
+.role {
+    font-size: 1.3rem;
+    color: #152f3f;
+    font-weight: 600;
+}
+
+.company {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #094369;
+}
+
+.time {
+    display: flex;
+    margin-top: 0.2rem;
+}
+
+.period {
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: #383838;
+}
+
+.duration {
+    font-size: 0.8rem;
+    font-weight: 300;
+    color: #383838;
+    margin-left: 0.4rem;
+    padding-left: 0.4rem;
+    position: relative;
+}
+
+.duration::before {
+    content: "";
+    width: 0.5px;
+    position: absolute;
+    background: #094369;
+    height: 60%;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+    font-size: 0.9rem;
+    color: #152f3f;
+    font-weight: 400;
+    margin: 0 1rem;
+}
+
+.skill::marker {
+    left: 0.5rem;
+    position: absolute; 
+}
+
+.jobs:hover .job:not(:hover) {
+    filter: blur(0.5px);
+    opacity: 0.8;
+}
