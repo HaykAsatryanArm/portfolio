@@ -9,23 +9,23 @@ const Header = () => {
     const nav = [
         {
             name: 'Home',
-            to: '/'
+            to: '/portfolio/'
         },
         {
             name: 'Skills',
-            to: '/skills'
+            to: '/portfolio/skills'
         },
         {
             name: 'Experience',
-            to: '/experience'
+            to: '/portfolio/experience'
         },
         {
             name: 'Projects',
-            to: '/projects'
+            to: '/portfolio/projects'
         },
         {
             name: 'Contact',
-            to: '/contact'
+            to: '/portfolio/contact'
         }
     ]
 
